@@ -1,8 +1,29 @@
-# 💫 About Me:
-"Hello world!"<br><br><br>Currently pursuing my BCA specialization in AI/ML from Sharda university, Greater nodia, India. <br><br><br>I have participated in many coding programs and competitions and i love to code.<br><br><br>Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (Java), Web Development (JavaScript, MySQL), Artificial intelligence & Machine Learning (Python). And what I might lack in skills I make up for with my determination to learn. <br><br><br>Outside of tech, I am a cold coffee lover and have spent holidays exploring theatre.<br><br><br>Here's my linkedin (https://www.linkedin.com/in/sarthak-chauhan-13b417298/)
+# 👋 Hello, World!
+I'm Sarthak Chauhan, currently pursuing a BCA with specialization in AI/ML at Sharda University, Greater Noida, India.
 
+I’ve actively participated in coding competitions and developer programs — I absolutely love solving problems and building things with code. I'm especially passionate about how technology shapes the world, and I’m constantly exploring new tools and ideas in the AI/ML space.
 
-## 🌐 Socials:
+# 🧠 What I Work With
+Languages & Scripting: <br>
+Java • JavaScript • Python • TypeScript • HTML5 • CSS3 • Bash • PowerShell
+
+Frameworks & Libraries: <br>
+React • React Native • Express.js • Node.js • Nodemon • OpenCV • OpenGL • 
+TensorFlow • Keras • PyTorch • scikit-learn • mlflow • Pandas • NumPy • Matplotlib • Plotly • SciPy
+
+Databases & Backend: <br>
+MongoDB • MySQL
+
+Cloud & DevOps: <br>
+Azure • AWS • Google Cloud • Render • Git • GitHub • Windows Terminal • Postman • Power BI
+
+Other Tools & Platforms: <br>
+Raspberry Pi • Zigbee
+
+# 🎭 A Bit More About Me
+When I’m not coding, you’ll probably find me sipping cold coffee or diving into movies and scify stuff.
+
+## 📫 Connect with me on LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarthak-chauhan-13b417298/) 
 
 # 💻 Tech Stack:
